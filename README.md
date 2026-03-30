@@ -1,3 +1,4 @@
 # Terrix
 
 一个用于快速可视化多模型结果对比的软件
+![images](img.jpg)
